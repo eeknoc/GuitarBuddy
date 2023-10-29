@@ -12,5 +12,5 @@ e = c;
 ' = a sharp / b flat;
 (space) = b
 
-Play around in the GuitarHero.java file
+Play around in the GuitarHero.java file.
 Working mechanisms in GuitarString.java and RingBuffer.java files
