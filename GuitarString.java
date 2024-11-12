@@ -3,7 +3,6 @@ public class GuitarString {
     private RingBuffer buffer; // ring buffer
     private static final double DECAY = 0.996;
     private int ticCount = 0;
-    // YOUR OTHER INSTANCE VARIABLES HERE
 
     // create a guitar string of the given frequency
     public GuitarString(double frequency) {
