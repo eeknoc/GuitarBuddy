@@ -17,12 +17,10 @@ public class RingBuffer {
         return size;
     }
 
-    // is the buffer empty (size equals zero)?
     public boolean isEmpty() {
         return (size == 0);
     }
 
-    // is the buffer full (size equals array capacity)?
     public boolean isFull() {
         return (size == rb.length);
     }
